@@ -1,4 +1,4 @@
-# Statistical Inference for partially-shape-constrained-function-on-scalar-linear-regression-models
+# Statistical inference for partially-shape-constrained-function-on-scalar-linear-regression-models
 
 ## Section3 simulation studies
 simulation_generation_source_functions.R
